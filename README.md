@@ -14,8 +14,7 @@ This project simulates an **AI-driven autonomous spacecraft navigation system** 
 6. [Installation](#installation)
 7. [Usage](#usage)
 8. [Visualization](#visualization)
-9. [Contributing](#contributing)
-10. [License](#license)
+
 
 ---
 
@@ -91,7 +90,8 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/spacecraft-navigation.git
    cd spacecraft-navigation
    Run the Streamlit App
-Usage 🚀
+   ---------
+## Usage 🚀
 Open the Streamlit app in your browser.
 
 Adjust simulation parameters (e.g., speed, safe margin, weight) using the sidebar.
@@ -99,8 +99,8 @@ Adjust simulation parameters (e.g., speed, safe margin, weight) using the sideba
 Click Run Simulation to start the spacecraft's journey.
 
 Explore the 3D visualization to see how the spacecraft navigates through space debris.
-
-Visualization 📈
+---------
+## Visualization 📈
 The simulation is visualized in 3D using Plotly:
 
 Spacecraft Trajectory: Shown as a blue line.
